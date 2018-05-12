@@ -1,0 +1,33 @@
+_repo: A-Son-of-the-CityA-Story-of-Boy-Life_20708
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Arting, Fred J.
+    gutenberg_agent_id: '31342'
+    url: http://www.gutenberg.org/2009/agents/31342
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Seely, Herman Gastrell
+    gutenberg_agent_id: '9474'
+    url: http://www.gutenberg.org/2009/agents/9474
+description: ''
+gutenberg_issued: '2007-02-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20708'
+  lccn: '17025592'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'City and town life -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+title: 'A Son of the City
+
+  A Story of Boy Life'
+url: http://www.gutenberg.org/ebooks/20708
